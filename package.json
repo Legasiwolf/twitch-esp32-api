@@ -1,0 +1,10 @@
+{
+  "name": "twitch-esp32-api",
+  "version": "1.0.0",
+  "description": "Serverless API for ESP32 Twitch follower counter",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "node-fetch": "^2.6.12"
+  }
+}
